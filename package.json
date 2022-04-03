@@ -1,0 +1,16 @@
+{
+  "name": "vocab-review",
+  "version": "0.0.1",
+  "description": "An app to help you review words you have learned!",
+  "main": "./app/scripts/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://www.github.com/IzaakSantana/vocab-review",
+  "author": "IzaakSantana <isaacsantana.162@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.1",
+    "electron-builder": "^22.14.13"
+  }
+}
